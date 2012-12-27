@@ -3,7 +3,8 @@
 .RData
 .giternal.yml
 .DS_Store
-.git.frozen.tgz
+libraries/shower/.git.frozen.tgz
+libraries/deckjs/.git.frozen.tgz
 
 libraries/shower
 
