@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.giternal.yml
+.DS_Store
+
+libraries/shower
