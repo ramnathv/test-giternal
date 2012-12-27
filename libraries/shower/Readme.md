@@ -1,5 +1,7 @@
 # Shower
 
+This is just a test to see how if upstream changes propogate correctly when managing vendor libraries with giternal.
+
 HTML presentation engine. Follow [@shower_me](http://twitter.com/shower_me/) for support and updates.
 
 To see Shower in action:
